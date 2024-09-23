@@ -11,11 +11,17 @@ This analysis considers data referring to the citizens of Ireland. It collects v
    2.3 [Required Packages](#required-packages)
 3. [Notebooks](#notebooks)
    3.1 [ML Cleaning](#ml-cleaning)
+   
    3.2 [ML Dimension Reduction](#ml-dimension-reduction)
+   
    3.3 [ML PCA](#ml-pca)
+   
    3.4 [ML Regression](#ml-regression)
+   
    3.5 [ML Clustering](#ml-clustering)
+   
    3.6 [ML Classification Data Prep](#ml-classification-data-prep)
+   
    3.7 [ML Classification](#ml-classification)
 
 
