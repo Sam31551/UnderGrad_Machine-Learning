@@ -16,16 +16,15 @@ This analysis considers data referring to the citizens of Ireland. It collects v
      
 3. **Required Packages**: This analysis requires several Python packages. You can install these packages using pip. The list of packages and their installation commands are provided below. 
 
-      - `pip install beautifulsoup4`
-      - `pip install pandas`
-      - `pip install numpy`
-      - `pip install matplotlib`
-      - `pip install scikit-learn`
-      - `pip install scipy`
-      - `pip install statsmodels`
-      - `pip install pygam`
-      - `pip install xgboost`
-      - `pip install shap`
-      - `pip install mlxtend`
+      - 'pip install pandas'
+      - 'pip install numpy'
+      - 'pip install scikit-learn'
+      - 'pip install matplotlib'
+      - 'pip install bioinfokit'
+      - 'pip install seaborn'
+      - 'pip install xgboost'
+      - 'pip install shap'
+      - 'pip install interpret'
+      
       
 Once these packages have been installed all import statements should run.
