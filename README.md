@@ -14,3 +14,18 @@ This analysis considers data referring to the citizens of Ireland. It collects v
      pip install notebook
      ```
      
+3. **Required Packages**: This analysis requires several Python packages. You can install these packages using pip. The list of packages and their installation commands are provided below. 
+
+      - `pip install beautifulsoup4`
+      - `pip install pandas`
+      - `pip install numpy`
+      - `pip install matplotlib`
+      - `pip install scikit-learn`
+      - `pip install scipy`
+      - `pip install statsmodels`
+      - `pip install pygam`
+      - `pip install xgboost`
+      - `pip install shap`
+      - `pip install mlxtend`
+      
+Once these packages have been installed all import statements should run.
