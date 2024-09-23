@@ -92,5 +92,5 @@ K-means, Mean-Shift and Hierarchical clustering algorithms were executed. The ke
 ### ML Classification Data Prep
 The categorical features are retrieved from the previously cleaned data. The target variable is added to the dataframe. A column is dropped to reduce data redundancy. The variable 'gross income' is then binned into 5 levels of 'High' to 'Low'. 
 
-### ML_Classification
+### ML Classification
 The categorical data created in the previous notebook is split into training and testing X and Y sets. A number of classification algorithms are imported and the data is encoded. Each of the models are run on the data. Logistic Regression is the strongest performing model. This model is then tuned using Grid Search Cross Validation in an attempt to find imprved performance. The optimum model reached an accuracy level of 71.8475%.
