@@ -51,8 +51,11 @@ Principal Component Analysis is performed on the data to further reduce data dim
 The first 5 principla components are used to train the regression model. A range of models are trained and tested and the results are stored. The strongest model (Gradient Boost) is then optimized using Grid Search Cross Validation and the optimum hyperparameters are found. 
 
 SHAP (Feature Importance tool) is run using this optimized model. The Second, First and Third Principal Components contributed the most to the target variable. The features in principal component 1 that correlate positively with median household income are:
+
 Households, nationality, population by sex/marital status, families, and languages.  
+
 Features in principal component 1 that correlate negatively with median household income are:
+
 Agriculture, Forestry and Fishing; Construction; Industry; GEOGID and area code.
 
 ### ML Clustering
