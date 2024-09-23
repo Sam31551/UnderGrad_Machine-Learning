@@ -31,7 +31,7 @@ This analysis considers data referring to the citizens of Ireland. It collects v
    3.7 [ML Classification](#ml-classification)
 
 
-## Installation and Set-Up
+## Installation and Set Up
 
 1. **Python Installation**: This project requires Python. Ensure you have Python installed on your system. You can download Python from the [official Python website](https://www.python.org/downloads/).
 
