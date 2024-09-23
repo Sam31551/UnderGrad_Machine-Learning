@@ -5,11 +5,17 @@ This analysis considers data referring to the citizens of Ireland. It collects v
 
 ## Table of Contents
 1. [Basic Overview](#basic-overview)
-2. [Installation and Set-Up](#installation-and-set-up)  
+2. [Installation and Set-Up](#installation-and-set-up)
+   
    2.1 [Python Installation](#python-installation)
+   
    2.2 [Running Jupyter Notebooks](#running-jupyter-notebooks)
+   
    2.3 [Required Packages](#required-packages)
+
+   
 3. [Notebooks](#notebooks)
+
    3.1 [ML Cleaning](#ml-cleaning)
    
    3.2 [ML Dimension Reduction](#ml-dimension-reduction)
