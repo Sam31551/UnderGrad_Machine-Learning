@@ -3,6 +3,22 @@
 ## Basic overview
 This analysis considers data referring to the citizens of Ireland. It collects various metrics from the different Electoral Divisions in the county. This analysis will combine the available data and create machine learning models to determine the effect of different features on the value of median household income.  
 
+## Table of Contents
+1. [Basic Overview](#basic-overview)
+2. [Installation and Set-Up](#installation-and-set-up)  
+   2.1 [Python Installation](#python-installation)
+   2.2 [Running Jupyter Notebooks](#running-jupyter-notebooks)
+   2.3 [Required Packages](#required-packages)
+3. [Notebooks](#notebooks)
+   3.1 [ML Cleaning](#ml-cleaning)
+   3.2 [ML Dimension Reduction](#ml-dimension-reduction)
+   3.3 [ML PCA](#ml-pca)
+   3.4 [ML Regression](#ml-regression)
+   3.5 [ML Clustering](#ml-clustering)
+   3.6 [ML Classification Data Prep](#ml-classification-data-prep)
+   3.7 [ML Classification](#ml-classification)
+
+
 ## Installation and Set-Up
 
 1. **Python Installation**: This project requires Python. Ensure you have Python installed on your system. You can download Python from the [official Python website](https://www.python.org/downloads/).
