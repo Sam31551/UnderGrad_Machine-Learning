@@ -59,6 +59,7 @@ Once these packages have been installed all import statements should run.
 
 ## Notebooks
 The analysis is performed through several notebooks, each focusing on a specific stage. 
+
 These notebooks are designed to be run in order with data being defined in earlier notebooks and imported for use in later ones.
 
 ### ML Cleaning
