@@ -100,5 +100,5 @@ These notebooks are designed to be run in order with data being defined in earli
    - The categorical data created in the previous notebook is split into training and testing X and Y sets.
    - A number of classification algorithms are imported and the data is encoded. Each of the models are run on the data.
    - Logistic Regression is the strongest performing model.
-   - This model is then tuned using Grid Search Cross Validation in an attempt to find imprved performance.
+   - This model is then tuned using Grid Search Cross Validation in an attempt to find improved performance.
    - The optimum model reached an accuracy level of 71.8475%.
