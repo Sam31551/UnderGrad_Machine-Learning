@@ -81,7 +81,7 @@ These notebooks are designed to be run in order with data being defined in earli
    - The principal components are visualised to show their key features. 
 
 ### ML Regression
-   - The first 5 principla components are used to train the regression model.
+   - The first 5 principal components are used to train the regression model.
    - A range of models are trained and tested and the results are stored.
    - The strongest model (Gradient Boosting) is then optimized using Grid Search Cross Validation and the optimum hyperparameters are found.
    - SHAP (Feature Importance tool) is run using this optimized model. The Second, First and Third Principal Components contributed the most to the target variable.
